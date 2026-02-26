@@ -3,7 +3,9 @@
 Medical Engineering student focused on AI in healthcare and intelligent systems.  
 Currently working as a Full-Stack Developer, building scalable AI-powered web applications.
 
----
+
+
+
 
 ## 🛠 Languages & Tools
 
@@ -17,9 +19,8 @@ Currently working as a Full-Stack Developer, building scalable AI-powered web ap
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
----
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/abtin-hasannezhad-82731b225
 - Email: abtinhnz@gmail.com
