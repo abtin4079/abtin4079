@@ -1,7 +1,7 @@
 # Hi, I'm Abtin 👋
 
 Medical Engineering student focused on AI in healthcare and intelligent systems.  
-Have Experienced as a Full-Stack Developer, building scalable AI-powered web applications.
+Have Worked as a Full-Stack Developer, building scalable AI-powered web applications and mobile app.
 
 
 
