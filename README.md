@@ -23,7 +23,7 @@ Have Worked as a Full-Stack Developer, building scalable AI-powered web applicat
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/abtin-hasannezhad-82731b225
-- Email: abtinhnz@gmail.com
+- Email: abtinhnz@gmail.com, abtin.hassannezhad@fau.de
 <!--
 **abtin4079/abtin4079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
